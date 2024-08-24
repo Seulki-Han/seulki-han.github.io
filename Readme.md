@@ -19,7 +19,7 @@ My current research work lies in system health monitoring in the manufacturing i
 
 - ***Han, S.***, Awasthi, U., and Bollas, G. M. Physics-informed symbolic regression for PHM: recursive model for predictive maintenance in manufacturing. (In preparation)
 - ***Han, S.***, Pattipati, K. R., and Bollas, G. M. Surrogate model-based tool wear prognostics and remaining useful life prediction in precision machining. (In preparation)
-- ***Han, S.***, Yang, Q., Pattipati, K. R., and Bollas, G. M. (2022). [Sensor selection and tool wear prediction with data-driven models for precision machining. Journal of Advanced Manufacturing and Processing]( https://doi.org/10.1002/amp2.10143)
+- ***Han, S.***, Yang, Q., Pattipati, K. R., and Bollas, G. M. (2022). [Sensor selection and tool wear prediction with data-driven models for precision machining.]( https://doi.org/10.1002/amp2.10143). Journal of Advanced Manufacturing and Processing
 - ***Han, S.***, Mannan, N., Stein, D. C., Pattipati, K. R., and Bollas, G. M. (2021). [Classification and regression models of audio and vibration signals for machine state monitoring in precision machining systems. Journal of Manufacturing Systems](https://doi.org/10.1016/j.jmsy.2021.08.004)
 - <sup>1</sup>You, C., ***<sup>1</sup>Han, S.***, and Kim, J. (2021). [Integrative design of the optimal biorefinery and bioethanol supply chain under the water-energy-food-land (WEFL) nexus framework. Energy](https://doi.org/10.1016/j.energy.2021.120574) <sup>1</sup>Contributed equally
 - ***Han, S.*** and Kim, J. (2019). [A multi-period MILP model for the investment and design planning of a national-level complex renewable energy supply system. Renewable Energy](https://doi.org/10.1016/j.renene.2019.04.017)
