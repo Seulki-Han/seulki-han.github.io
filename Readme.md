@@ -2,7 +2,7 @@
 
 <!--img src="/Photo.jpg" width="" height=""-->
 
-[Curriculam Vitae](https://github.com/UtsavAwasthi/Documents/blob/main/CV_Utsav_Awasthi.pdf) | [LinkedIn](https://www.linkedin.com/in/seulkihan)| [Google Scholar](https://scholar.google.com/citations?user=onHXfuEAAAAJ&hl=ko&oi=ao) | [Github](https://github.com/Seulki-Han)
+[Curriculam Vitae](CV_Seulki_Han.pdf) | [LinkedIn](https://www.linkedin.com/in/seulkihan)| [Google Scholar](https://scholar.google.com/citations?user=onHXfuEAAAAJ&hl=ko&oi=ao) | [Github](https://github.com/Seulki-Han)
 
 
 I am a Ph.D. candidate in the Department of Chemical and Biomolecular Engineering and affiliated with the [Pratt & Whitney Institute for Advanced Systems Engineering](https://utc-iase.uconn.edu/) at the University of Connecticut. I received an M.S. degree in Chemical Engineering with a focus on mathematical programming, optimization, planning, and scheduling from Carnegie Mellon University. I did my undergraduate stuies in Chemical Engineering at the Indian Institute of Technology (IIT) (BHU), Varanasi, India. 
