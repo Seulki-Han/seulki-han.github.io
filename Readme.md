@@ -19,14 +19,14 @@ My current research work lies in system health monitoring in the manufacturing i
 
 - ***Han, S.***, Awasthi, U., and Bollas, G. M. Physics-informed symbolic regression for PHM: recursive model for predictive maintenance in manufacturing. (In preparation)
 - ***Han, S.***, Pattipati, K. R., and Bollas, G. M. Surrogate model-based tool wear prognostics and remaining useful life prediction in precision machining. (In preparation)
-- ***Han, S.***, Yang, Q., Pattipati, K. R., and Bollas, G. M. (2022). [Sensor selection and tool wear prediction with data-driven models for precision machining.]( https://doi.org/10.1002/amp2.10143). Journal of Advanced Manufacturing and Processing
-- ***Han, S.***, Mannan, N., Stein, D. C., Pattipati, K. R., and Bollas, G. M. (2021). [Classification and regression models of audio and vibration signals for machine state monitoring in precision machining systems. Journal of Manufacturing Systems](https://doi.org/10.1016/j.jmsy.2021.08.004)
-- <sup>1</sup>You, C., ***<sup>1</sup>Han, S.***, and Kim, J. (2021). [Integrative design of the optimal biorefinery and bioethanol supply chain under the water-energy-food-land (WEFL) nexus framework. Energy](https://doi.org/10.1016/j.energy.2021.120574) <sup>1</sup>Contributed equally
-- ***Han, S.*** and Kim, J. (2019). [A multi-period MILP model for the investment and design planning of a national-level complex renewable energy supply system. Renewable Energy](https://doi.org/10.1016/j.renene.2019.04.017)
-- ***Han, S.***, Kim, S., Kim, Y., Kwak, G., and Kim, J. (2019). [Optimization-based assessment framework for carbon utilization strategies: Energy production from coke oven gas. Energy Conversion and Management](https://doi.org/10.1016/j.enconman.2019.03.007)
-- ***Han, S.*** and Kim, J. (2017). [Optimization-based integration and analysis of a complex renewable energy system for the transportation sector. Chemical Engineering Research and Design](https://doi.org/10.1016/j.cherd.2017.09.029)
-- ***Han, S.*** and Kim, J. (2017). [An optimization model to design and analysis of renewable energy supply strategies for residential sector. Renewable Energy](https://doi.org/10.1016/j.renene.2017.05.030)
-- ***Han, S.***, Won, W., and Kim, J. (2017). [Scenario-based approach for design and comparatively analysis of conventional and renewable energy systems. Energy](https://doi.org/10.1016/j.energy.2017.04.063)
+- ***Han, S.***, Yang, Q., Pattipati, K. R., and Bollas, G. M. (2022). [Sensor selection and tool wear prediction with data-driven models for precision machining]( https://doi.org/10.1002/amp2.10143). Journal of Advanced Manufacturing and Processing
+- ***Han, S.***, Mannan, N., Stein, D. C., Pattipati, K. R., and Bollas, G. M. (2021). [Classification and regression models of audio and vibration signals for machine state monitoring in precision machining systems](https://doi.org/10.1016/j.jmsy.2021.08.004). Journal of Manufacturing Systems
+- <sup>1</sup>You, C., ***<sup>1</sup>Han, S.***, and Kim, J. (2021). [Integrative design of the optimal biorefinery and bioethanol supply chain under the water-energy-food-land (WEFL) nexus framework](https://doi.org/10.1016/j.energy.2021.120574). Energy <sup>1</sup>Contributed equally
+- ***Han, S.*** and Kim, J. (2019). [A multi-period MILP model for the investment and design planning of a national-level complex renewable energy supply system](https://doi.org/10.1016/j.renene.2019.04.017). Renewable Energy
+- ***Han, S.***, Kim, S., Kim, Y., Kwak, G., and Kim, J. (2019). [Optimization-based assessment framework for carbon utilization strategies: Energy production from coke oven gas](https://doi.org/10.1016/j.enconman.2019.03.007). Energy Conversion and Management
+- ***Han, S.*** and Kim, J. (2017). [Optimization-based integration and analysis of a complex renewable energy system for the transportation sector](https://doi.org/10.1016/j.cherd.2017.09.029). Chemical Engineering Research and Design
+- ***Han, S.*** and Kim, J. (2017). [An optimization model to design and analysis of renewable energy supply strategies for residential sector](https://doi.org/10.1016/j.renene.2017.05.030). Renewable Energy
+- ***Han, S.***, Won, W., and Kim, J. (2017). [Scenario-based approach for design and comparatively analysis of conventional and renewable energy systems](https://doi.org/10.1016/j.energy.2017.04.063). Energy
 
 ## Conference and Poster Presentations
 
