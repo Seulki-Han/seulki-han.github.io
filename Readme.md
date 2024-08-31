@@ -52,9 +52,9 @@ My current research work lies in system health monitoring in the manufacturing i
 - ***Han, S.***, Maloney, T., and Bollas, G. M. (2020). Machine Learning Approach for Tool Condition Monitoring in Manufacturing Systems, AIChE, Virtual Meeting, USA. 
 - ***Han, S.*** and Kim, J. (2015).  Optimization-based analysis of a complex energy superstructure, International Conference on Chemical and Polymer Engineering (ICCPE’15), Barcelona, Spain.
 
-## Patents
+## Patent
 - ***Han, S.*** (2021). Republic of Korea. Patent Number 10-2203502. [Method and server for estalishing optimization-based carbon utilization strategy](https://doi.org/10.8080/1020190086508)
 
-## Certifications
+## Certification
 - DeepLearning.AI TensorFlow Developer
   
