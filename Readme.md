@@ -56,5 +56,5 @@ My current research work lies in system health monitoring in the manufacturing i
 - ***Han, S.*** (2021). Republic of Korea. Patent Number 10-2203502. [Method and server for estalishing optimization-based carbon utilization strategy](https://doi.org/10.8080/1020190086508)
 
 ## Certification
-- DeepLearning.AI TensorFlow Developer
+- DeepLearning.AI TensorFlow Developer (2024)
   
