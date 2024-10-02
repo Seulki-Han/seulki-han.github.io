@@ -1,4 +1,4 @@
-# Seulki Han 
+# Ph.D. Candidate in Chemical Engineering 
 
 <!--img src="/Photo.jpg" width="" height=""-->
 
