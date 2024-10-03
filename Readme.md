@@ -27,7 +27,7 @@ My current research work lies in **system health monitoring** in the manufacturi
 - Programming: MATLAB, GAMS, Python, Tensorflow, Numpy
 - Software/Algebraic modeling language: ALAMO, GPTIPS
 - Mathematical Programming/Optimization: Linear programming, Integer programming, Nonlinear programming
-- Machine learning/AI: Classification, Regression, Clustering, Dimensionality reduction, Feature engineering, Genetic programming, Neural networks (DNN, CNN, RNN), Natural language processing
+- Machine learning/AI: Classification, Regression, Clustering, Dimensionality reduction, Feature engineering, Genetic programming, Neural networks (DNN, CNN, RNN, GPU, LSTM, GAN), Natural language processing
 - Data analytics: Data analysis, Data visualization, Data mining, Data augmentation
 - Energy system analysis computer model: SAM, iHOGA, HOMER
 
