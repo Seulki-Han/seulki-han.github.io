@@ -16,9 +16,7 @@ I am a postdoctoral researcher working with Professor Marianthi Ierapetritou at 
 
 ## Research Vision
 
-Emerging technologies must operate within larger systems shaped by resource availability, existing assets, and changing demand. A promising laboratory result may not lead to a viable commercial process, and an efficient process may not be the best choice for a regional supply network. Infrastructure investments can also constrain which technologies can be deployed later.
-
-My long-term goal is to develop **adaptive decision systems** that connect learning with optimization across these scales. The research program I am developing centers on three connected questions:
+My goal is to connect technology development, process design, and infrastructure planning through **adaptive decision systems**. I am developing a research program that uses engineering decisions to guide learning, preserves the process information needed for system-level design, and revises transition plans as new evidence emerges. Three connected questions guide this work:
 
 - **What should we learn before scaling up?**  
   Use commercial design decisions to identify which uncertain scale-up relationships matter and prioritize measurements that help distinguish competing designs.
@@ -37,11 +35,9 @@ Initial applications will focus on **sustainable fuels, circular resource system
 
 ## Selected Research
 
-### Learning Interpretable Models of Evolving Physical Systems
+### Physics-Informed Learning for Evolving Systems
 
 Tool degradation accumulates over time, but sensor measurements do not directly reveal the underlying wear state. During my Ph.D., I developed a physics-informed recursive symbolic regression framework that combines prior state estimates with physical knowledge in explicit mathematical expressions. The framework predicts tool wear and remaining useful life across different machining conditions.
-
-This work provides a foundation for my broader interest in models that learn from evolving physical information.
 
 <!-- Add a recursive-model schematic and an actual prediction result here. -->
 
@@ -49,7 +45,7 @@ This work provides a foundation for my broader interest in models that learn fro
 
 Han, S., Awasthi, U., and Bollas, G. M. (2025). [Physics-informed symbolic regression for tool wear and remaining useful life predictions in manufacturing](https://doi.org/10.1016/j.jmsy.2025.03.023). *Journal of Manufacturing Systems*, 80, 734–748.
 
-### Connecting Process Development with Integrated Design and Sustainability Assessment
+### Integrated Process Design and Sustainability
 
 Laboratory performance alone does not establish whether an emerging process will be economically and environmentally viable at scale. In my postdoctoral research, I connect experimental data with process models, techno-economic analysis, and life cycle assessment.
 
@@ -59,11 +55,11 @@ In solvent-based nylon recycling, I investigate how solvent use, separation requ
 
 <!-- Add the VFA process diagram and joint versus two-step cost comparison here. -->
 
-**Related manuscript**
+**Related manuscript — under review**
 
-Han, S. and Ierapetritou, M. *A surrogate-driven optimization framework for volatile fatty acid (VFA) production and recovery from food waste.* Under review.
+Han, S. and Ierapetritou, M. A surrogate-driven optimization framework for volatile fatty acid (VFA) production and recovery from food waste. *Bioresource Technology*.
 
-### Designing Energy Supply Networks and Infrastructure Investment Pathways
+### Energy Infrastructure Design and Planning
 
 Energy infrastructure decisions link technology selection, facility location, capacity, transportation, and investment timing. I developed a multi-period optimization model for national renewable energy infrastructure planning, showing how resource geography and transportation costs shape deployment patterns across energy carriers.
 
@@ -75,9 +71,9 @@ My current work extends this systems perspective to sustainable aviation fuel, c
 
 Han, S. and Kim, J. (2019). [A multi-period MILP model for the investment and design planning of a national-level complex renewable energy supply system](https://doi.org/10.1016/j.renene.2019.04.017). *Renewable Energy*, 141, 736–750.
 
-**Related manuscript**
+**Related manuscript — under review**
 
-Han, S. and Ierapetritou, M. *A national-scale optimization framework for sustainable aviation fuel deployment.* Under review.
+Han, S. and Ierapetritou, M. A national-scale optimization framework for sustainable aviation fuel deployment. *Computers & Chemical Engineering*.
 
 ## Publications
 
