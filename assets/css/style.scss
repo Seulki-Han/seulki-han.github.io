@@ -1,0 +1,169 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Main text */
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 1.75;
+  font-weight: 400;
+  color: #30343b;
+}
+
+/* Wider page and reading area */
+.wrapper {
+  width: 1100px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+header {
+  width: 240px;
+}
+
+section {
+  width: 780px;
+}
+
+footer {
+  width: 240px;
+}
+
+/* Profile photo */
+header img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* Sidebar text */
+header p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Headings */
+h1,
+h2,
+h3 {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: #182b40;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 34px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 27px;
+  margin-top: 42px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 22px;
+  margin-top: 30px;
+  margin-bottom: 16px;
+}
+
+section > h1:first-child {
+  margin-top: 0;
+}
+
+/* Paragraph and list spacing */
+p {
+  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 12px;
+}
+
+strong {
+  color: #202b38;
+  font-weight: 700;
+}
+
+/* Links */
+a {
+  color: #155b91;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #103f65;
+  font-weight: inherit;
+  text-decoration: underline;
+}
+
+/* Research figures */
+section img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Small screens */
+@media screen and (max-width: 1160px) {
+  .wrapper {
+    width: 100%;
+  }
+
+  section {
+    width: calc(100% - 300px);
+  }
+}
+
+@media screen and (max-width: 960px) {
+  header,
+  section,
+  footer {
+    position: static;
+    float: none;
+    width: auto;
+  }
+
+  header {
+    padding-right: 0;
+    margin-bottom: 32px;
+  }
+
+  header img {
+    width: 200px;
+    max-width: 100%;
+  }
+
+  header p.view {
+    position: static;
+  }
+
+  section {
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    padding: 24px 20px;
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  h1 {
+    font-size: 29px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  h3 {
+    font-size: 21px;
+  }
+}
