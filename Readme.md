@@ -103,28 +103,6 @@ Han, S. and Ierapetritou, M. *A national-scale optimization framework for sustai
 
 10. **Han, S.**, Won, W., and Kim, J. (2017). [Scenario-based approach for design and comparative analysis of conventional and renewable energy systems](https://doi.org/10.1016/j.energy.2017.04.063). *Energy*, 129, 86–100.
 
-### Manuscripts Under Review
-
-- **Han, S.** and Ierapetritou, M. A surrogate-driven optimization framework for volatile fatty acid (VFA) production and recovery from food waste.
-
-- **Han, S.** and Ierapetritou, M. A national-scale optimization framework for sustainable aviation fuel deployment.
-
-- **Han, S.** and Bollas, G. M. Enhancing multi-class tool wear classification via GAN-based scalogram augmentation.
-
-A complete record of publications, conference presentations, and other research activities is available in my [CV](CV_Seulki_Han.pdf) and on [Google Scholar](https://scholar.google.com/citations?user=onHXfuEAAAAJ&hl=en).
-
-## Teaching & Mentoring
-
-My goal as an educator is to help students formulate engineering problems, select appropriate principles and models, and evaluate their results with sound engineering judgment.
-
-I have served as a teaching assistant for:
-
-- **Fluid Mechanics** — University of Connecticut
-- **Chemical Reaction Engineering** — Incheon National University
-- **Advanced Process Control** — University of Connecticut
-
-I have also mentored **three undergraduate and two master’s students** in optimization modeling, data analysis, literature review, and manuscript preparation.
-
 ## Contact
 
 **Seulki Han, Ph.D.**  
