@@ -4,83 +4,78 @@
 Department of Chemical & Biomolecular Engineering  
 University of Delaware
 
-[Email](mailto:seulkih@udel.edu) | [CV](CV_Seulki_Han.pdf) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=onHXfuEAAAAJ&view_op=list_works&sortby=pubdate) | [LinkedIn](https://www.linkedin.com/in/seulkihan) | 
+[Email](mailto:seulkih@udel.edu) | [CV](CV_Seulki_Han.pdf) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=onHXfuEAAAAJ&view_op=list_works&sortby=pubdate) | [LinkedIn](https://www.linkedin.com/in/seulkihan)
 
 ## Adaptive Learning and Optimization for Process and Infrastructure Decisions
 
 **How should technologies, processes, and infrastructure be designed and transitioned together under changing and uncertain conditions?**
 
-I develop models and optimization methods to connect technology performance with process design and infrastructure planning. My work combines physics-informed learning, process simulation, and mathematical optimization to understand how engineering choices depend on one another across scales and time.
+I develop models and optimization methods to connect technology performance with process design and infrastructure planning. My work combines physics-informed learning, process simulation, and mathematical optimization to study how engineering decisions at different scales affect one another.
 
 I am a postdoctoral researcher working with Professor Marianthi G. Ierapetritou at the University of Delaware. I received my Ph.D. in Chemical and Biomolecular Engineering from the University of Connecticut in 2025, advised by Professor George M. Bollas. I earned my M.S. and B.S. in Energy and Chemical Engineering from Incheon National University, where I worked with Professor Jiyong Kim.
 
 ## Research Vision
 
-My goal is to connect technology development, process design, and infrastructure planning through **adaptive decision systems**. I am developing a research program that uses engineering decisions to guide learning, preserves the process information needed for system-level design, and revises transition plans as new evidence emerges. Three connected questions guide this work:
+My goal is to connect technology development, process design, and infrastructure planning through **adaptive decision systems**. I am developing a research program that uses engineering decisions to guide learning, preserves the process information needed for system-level design, and revises transition plans as new evidence emerges. Three connected questions guide this work.
 
 - **What should we learn before scaling up?**  
   Use commercial design decisions to identify which uncertain scale-up relationships matter and prioritize measurements that help distinguish competing designs.
 
 - **What process information do infrastructure decisions need?**  
-  Preserve the process relationships needed for reliable system decisions, and translate system needs into quantitative targets for process improvement.
+  Preserve the process relationships needed for reliable system decisions and translate system needs into quantitative targets for process improvement.
 
 - **When should a transition plan change?**  
-  Update planning models as new information arrives and identify when the expected benefits of revising a pathway justify the cost of changing course.
+  Update planning models as new information becomes available and determine when the benefits of revising a pathway outweigh the cost of changing course.
 
-These questions form **a feedback loop**: experimental and operating information improves process models, which inform infrastructure decisions. System-level decisions then guide further learning, process development, and plan revision.
+These questions form **a feedback loop**. Experimental and operating data improve process models, which inform infrastructure decisions. System-level decisions then guide further learning, process development, and plan revision.
 
 Initial applications will focus on **sustainable fuels, circular resource systems, and low-carbon infrastructure**.
 
-<img src="fig1_research_vision.svg" alt="Research vision: three connected questions on technology, process, and infrastructure decisions forming a feedback loop" width="100%">
+<img src="fig1_research_vision.svg" alt="Research vision showing feedback between technology learning, process design, and infrastructure planning" width="100%">
 
 ## Selected Research
 
 ### Physics-Informed Learning for Evolving Systems
 
-Tool degradation accumulates over time, but sensor measurements do not directly reveal the underlying wear state. During my Ph.D., I developed a physics-informed recursive symbolic regression framework that combines prior state estimates with physical knowledge in explicit mathematical expressions. The framework predicts tool wear and remaining useful life across different machining conditions.
+Tool wear develops over time, but sensor measurements do not directly capture the wear state. Data-driven models can also lose accuracy when operating conditions change. During my Ph.D., I developed a physics-informed recursive symbolic regression framework that uses each wear prediction as the next state input, together with sensor measurements and operating variables, to build explicit, interpretable equations.
 
-**Representative publication:**
-Han, S., Awasthi, U., and Bollas, G. M. (2025). [Physics-informed symbolic regression for tool wear and remaining useful life predictions in manufacturing](https://doi.org/10.1016/j.jmsy.2025.03.023). *Journal of Manufacturing Systems*, 80, 734–748.
+Across 14 milling cases with different cutting conditions and workpiece materials, the model achieved an **average test R² of 0.93** and compared favorably with published tool wear models. The framework also supports remaining useful life prediction.
 
-<img src="fig2_physics_informed_learning.svg" alt="Physics-informed recursive symbolic regression and tool-wear prediction results" width="100%">
+<img src="fig2_physics_informed_learning.svg" alt="Physics-informed recursive symbolic regression framework and tool wear prediction results" width="100%">
+
+**Related Publication**
+
+- **Han, S.**, Awasthi, U., and Bollas, G. M. (2025). [Physics-informed symbolic regression for tool wear and remaining useful life predictions in manufacturing](https://doi.org/10.1016/j.jmsy.2025.03.023). *Journal of Manufacturing Systems*, 80, 734–748.
 
 
 ### Integrated Process Design and Optimization
 
-Process performance depends on how technologies are selected and connected within the full process. My research combines process modeling and optimization to identify how these choices affect cost, energy use, and resource recovery.
+Process performance depends not only on individual technologies but also on how they are integrated. I use process modeling, surrogate modeling, and optimization to examine how technology selection and process configuration affect cost, energy use, and resource recovery.
 
-For industrial carbon utilization, I combined process simulation with superstructure optimization to compare pathways for converting coke oven gas into fuels and chemicals. The preferred hydrogen pathway depended on the objective. Direct separation minimized production cost and energy use, while maximizing hydrogen recovery required additional conversion and separation steps.
+For industrial carbon utilization, I developed a superstructure optimization framework for converting coke oven gas into hydrogen, methanol, Fischer–Tropsch fuels, and methane. The optimal process configuration depended on the objective. A single separation step minimized cost and energy use, while maximizing hydrogen production required additional reforming, shift, and separation steps.
 
-**Representative publication:**
-Han, S., Kim, S., Kim, Y. T., Kwak, G., and Kim, J. (2019). [Optimization-based assessment framework for carbon utilization strategies: Energy production from coke oven gas](https://doi.org/10.1016/j.enconman.2019.03.007). *Energy Conversion and Management*, 187, 1–14.
+In my current work on converting food waste to volatile fatty acids (VFAs), I developed surrogate models for fermentation and recovery and optimized both stages together. Across the studied feedstock compositions, joint optimization reduced total annual cost by **22–45% compared with optimizing each stage separately**, while maintaining or improving overall VFA yield.
 
-<!-- Add the carbon utilization figure here. -->
+<img src="fig3_VFA.svg" alt="Joint optimization of food waste fermentation and VFA recovery, including cost comparisons" width="90%">
 
+**Related Publications**
 
-My current work extends this approach to food-waste conversion to volatile fatty acids. I developed surrogate models for fermentation and recovery and embedded them in a joint optimization framework. Across the studied feedstock compositions, joint optimization reduced total annual cost by **22–45% relative to two-step optimization**, while maintaining or improving recovery yield.
-
-**Related manuscript(under review):**
-Han, S. and Ierapetritou, M. A surrogate-driven optimization framework for volatile fatty acid (VFA) production and recovery from food waste. *Bioresource Technology*.
-
-<img src="fig3_VFA.svg" alt="Joint design of food-waste fermentation and VFA recovery, with total annual cost of two-step vs. joint designs" width="90%">
+- **Han, S.** and Ierapetritou, M. A surrogate-driven optimization framework for volatile fatty acid (VFA) production and recovery from food waste. *Bioresource Technology* (under review).
+- **Han, S.**, Kim, S., Kim, Y. T., Kwak, G., and Kim, J. (2019). [Optimization-based assessment framework for carbon utilization strategies: Energy production from coke oven gas](https://doi.org/10.1016/j.enconman.2019.03.007). *Energy Conversion and Management*, 187, 1–14.
 
 
 ### Energy Infrastructure Design and Planning
 
-Energy infrastructure decisions link technology selection, facility location, capacity, transportation, and investment timing. I developed a multi-period optimization model for national renewable energy infrastructure planning, showing how resource geography and transportation costs shape deployment patterns across energy carriers.
+Energy infrastructure planning involves decisions about technology selection, facility location, capacity, transportation, and investment timing. I developed a multi-period optimization model for national renewable energy planning in Korea. The results showed how transportation costs influence network design. Electricity and liquid fuels were produced centrally in the region with the most abundant resources, while hydrogen production was distributed across regions closer to demand.
 
-**Representative publication:**
-Han, S. and Kim, J. (2019). [A multi-period MILP model for the investment and design planning of a national-level complex renewable energy supply system](https://doi.org/10.1016/j.renene.2019.04.017). *Renewable Energy*, 141, 736–750.
+My current work extends this approach to U.S. sustainable aviation fuel (SAF), integrating seasonal corn availability, existing ethanol plants, storage, rail and pipeline networks, and airport demand. As SAF demand increases, the optimal network shifts from centralized production to a more distributed system that uses existing facilities across multiple regions. Seasonal feedstock availability shapes production and transportation decisions, while feedstock procurement and SAF upgrading account for most of the total system cost.
 
-<!-- Add the renewable energy infrastructure figure here. -->
+<img src="fig4_SAF.svg" alt="U.S. sustainable aviation fuel supply chain design and infrastructure planning results" width="100%">
 
-My current work extends this systems perspective to sustainable aviation fuel, connecting seasonal feedstock availability, existing facilities, storage, transportation, and airport demand to deployment decisions.
+**Related Publications**
 
-**Related manuscript(under review):**
-Han, S. and Ierapetritou, M. A national-scale optimization framework for sustainable aviation fuel deployment. *Computers & Chemical Engineering*.
-
-<img src="fig4_SAF.svg" alt="U.S. sustainable aviation fuel supply chain map and network expansion results" width="100%">
-
+- **Han, S.** and Ierapetritou, M. A national-scale optimization framework for sustainable aviation fuel deployment. *Computers & Chemical Engineering* (under review).
+- **Han, S.** and Kim, J. (2019). [A multi-period MILP model for the investment and design planning of a national-level complex renewable energy supply system](https://doi.org/10.1016/j.renene.2019.04.017). *Renewable Energy*, 141, 736–750.
 
 ## Publications
 
@@ -110,6 +105,6 @@ Han, S. and Ierapetritou, M. A national-scale optimization framework for sustain
 
 **Seulki Han, Ph.D.**  
 Department of Chemical & Biomolecular Engineering  
-University of Delaware  
+University of Delaware
 
 Email: [seulkih@udel.edu](mailto:seulkih@udel.edu)
