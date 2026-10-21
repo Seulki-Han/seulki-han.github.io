@@ -4,10 +4,13 @@
 Department of Chemical & Biomolecular Engineering  
 University of Delaware
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
   <a href="mailto:seulkih@udel.edu">Email</a>
+  <span>|</span>
   <a href="CV_Seulki_Han.pdf">CV</a>
+  <span>|</span>
   <a href="https://scholar.google.com/citations?hl=en&user=onHXfuEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+  <span>|</span>
   <a href="https://www.linkedin.com/in/seulkihan">LinkedIn</a>
 </div>
 
