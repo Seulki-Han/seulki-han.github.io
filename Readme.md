@@ -6,12 +6,9 @@ University of Delaware
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
   <a href="mailto:seulkih@udel.edu">Email</a>
-  <span>|</span>
-  <a href="CV_Seulki_Han.pdf">CV</a>
-  <span>|</span>
-  <a href="https://scholar.google.com/citations?hl=en&user=onHXfuEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
-  <span>|</span>
-  <a href="https://www.linkedin.com/in/seulkihan">LinkedIn</a>
+  <span style="white-space: nowrap;">|&nbsp;&nbsp;<a href="CV_Seulki_Han.pdf">CV</a></span>
+  <span style="white-space: nowrap;">|&nbsp;&nbsp;<a href="https://scholar.google.com/citations?hl=en&user=onHXfuEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></span>
+  <span style="white-space: nowrap;">|&nbsp;&nbsp;<a href="https://www.linkedin.com/in/seulkihan">LinkedIn</a></span>
 </div>
 
 ## Adaptive Learning and Optimization for Process and Infrastructure Decisions
