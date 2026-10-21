@@ -6,7 +6,7 @@ University of Delaware
 
 [Email](mailto:seulkih@udel.edu) | [CV](CV_Seulki_Han.pdf) | [Google Scholar](https://scholar.google.com/citations?user=onHXfuEAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/seulkihan) | [GitHub](https://github.com/Seulki-Han)
 
-## Learning and Optimization for Process and Infrastructure Decisions
+## Adaptive Learning and Optimization for Process and Infrastructure Decisions
 
 **How should technologies, processes, and infrastructure be designed and transitioned together under changing and uncertain conditions?**
 
