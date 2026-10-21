@@ -39,7 +39,7 @@ Initial applications will focus on **sustainable fuels, circular resource system
 
 Tool degradation accumulates over time, but sensor measurements do not directly reveal the underlying wear state. During my Ph.D., I developed a physics-informed recursive symbolic regression framework that combines prior state estimates with physical knowledge in explicit mathematical expressions. The framework predicts tool wear and remaining useful life across different machining conditions.
 
-<!-- Add a recursive-model schematic and an actual prediction result here. -->
+<img src="Picture2.png" alt="Physics-informed recursive symbolic regression and tool-wear prediction results" width="90%">
 
 **Representative publication**
 
