@@ -27,7 +27,7 @@ My goal is to connect technology development, process design, and infrastructure
 - **When should a transition plan change?**  
   Update planning models as new information arrives and identify when the expected benefits of revising a pathway justify the cost of changing course.
 
-These questions form a feedback loop: experimental and operating information improves process models; process models inform infrastructure decisions; and system-level decisions guide further learning, process development, and plan revision.
+These questions form **a feedback loop**: experimental and operating information improves process models, which inform infrastructure decisions. System-level decisions then guide further learning, process development, and plan revision.
 
 Initial applications will focus on **sustainable fuels, circular resource systems, and low-carbon infrastructure**.
 
@@ -45,35 +45,43 @@ Tool degradation accumulates over time, but sensor measurements do not directly 
 
 Han, S., Awasthi, U., and Bollas, G. M. (2025). [Physics-informed symbolic regression for tool wear and remaining useful life predictions in manufacturing](https://doi.org/10.1016/j.jmsy.2025.03.023). *Journal of Manufacturing Systems*, 80, 734–748.
 
-### Integrated Process Design and Sustainability
+### Integrated Process Design and Optimization
 
-Laboratory performance alone does not establish whether an emerging process will be economically and environmentally viable at scale. In my postdoctoral research, I connect experimental data with process models, techno-economic analysis, and life cycle assessment.
+Process performance depends on how technologies are selected and connected within the full process. My research combines process modeling and optimization to identify how these choices affect cost, energy use, and resource recovery.
 
-For food-waste conversion to volatile fatty acids, I developed surrogate models for fermentation and recovery and embedded them in a joint optimization framework. Across the studied feedstock compositions, joint optimization reduced total annual cost by **22–45% relative to two-step optimization**, while maintaining or improving recovery yield.
+For industrial carbon utilization, I combined process simulation with superstructure optimization to compare pathways for converting coke oven gas into fuels and chemicals. The preferred hydrogen pathway depended on the objective. Direct separation minimized production cost and energy use, while maximizing hydrogen recovery required additional conversion and separation steps.
 
-In solvent-based nylon recycling, I investigate how solvent use, separation requirements, and energy demand affect scale-up feasibility.
+**Representative publication**
 
-<!-- Add the VFA process diagram and joint versus two-step cost comparison here. -->
+Han, S., Kim, S., Kim, Y. T., Kwak, G., and Kim, J. (2019). [Optimization-based assessment framework for carbon utilization strategies: Energy production from coke oven gas](https://doi.org/10.1016/j.enconman.2019.03.007). *Energy Conversion and Management*, 187, 1–14.
+
+<!-- Add the carbon utilization figure here. -->
+
+My current work extends this approach to food-waste conversion to volatile fatty acids. I developed surrogate models for fermentation and recovery and embedded them in a joint optimization framework. Across the studied feedstock compositions, joint optimization reduced total annual cost by **22–45% relative to two-step optimization**, while maintaining or improving recovery yield.
 
 **Related manuscript — under review**
 
 Han, S. and Ierapetritou, M. A surrogate-driven optimization framework for volatile fatty acid (VFA) production and recovery from food waste. *Bioresource Technology*.
 
+<!-- Add the VFA figure here. -->
+
 ### Energy Infrastructure Design and Planning
 
 Energy infrastructure decisions link technology selection, facility location, capacity, transportation, and investment timing. I developed a multi-period optimization model for national renewable energy infrastructure planning, showing how resource geography and transportation costs shape deployment patterns across energy carriers.
-
-My current work extends this systems perspective to sustainable aviation fuel, connecting seasonal feedstock availability, existing facilities, storage, transportation, and airport demand to deployment decisions.
-
-<!-- Add an actual infrastructure network map and a seasonal or investment result here. -->
 
 **Representative publication**
 
 Han, S. and Kim, J. (2019). [A multi-period MILP model for the investment and design planning of a national-level complex renewable energy supply system](https://doi.org/10.1016/j.renene.2019.04.017). *Renewable Energy*, 141, 736–750.
 
+<!-- Add the renewable energy infrastructure figure here. -->
+
+My current work extends this systems perspective to sustainable aviation fuel, connecting seasonal feedstock availability, existing facilities, storage, transportation, and airport demand to deployment decisions.
+
 **Related manuscript — under review**
 
 Han, S. and Ierapetritou, M. A national-scale optimization framework for sustainable aviation fuel deployment. *Computers & Chemical Engineering*.
+
+<!-- Add the SAF figure here. -->
 
 ## Publications
 
