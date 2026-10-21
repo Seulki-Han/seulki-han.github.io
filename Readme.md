@@ -30,8 +30,7 @@ My goal is to connect technology development, process design, and infrastructure
 These questions form **a feedback loop**: experimental and operating information improves process models, which inform infrastructure decisions. System-level decisions then guide further learning, process development, and plan revision.
 
 Initial applications will focus on **sustainable fuels, circular resource systems, and low-carbon infrastructure**.
-
-<img src="fig1_research_vision.svg" alt="Research vision: three connected questions on technology, process, and infrastructure decisions forming a feedback loop" width="90%">
+<img src="fig1_research_vision.svg" alt="Research vision: three connected questions on technology, process, and infrastructure decisions forming a feedback loop" width="100%">
 
 ## Selected Research
 
@@ -42,8 +41,7 @@ Tool degradation accumulates over time, but sensor measurements do not directly 
 **Representative publication**
 
 Han, S., Awasthi, U., and Bollas, G. M. (2025). [Physics-informed symbolic regression for tool wear and remaining useful life predictions in manufacturing](https://doi.org/10.1016/j.jmsy.2025.03.023). *Journal of Manufacturing Systems*, 80, 734–748.
-
-<img src="fig2_physics_informed_learning.svg" alt="Physics-informed recursive symbolic regression and tool-wear prediction results" width="90%">
+<img src="fig2_physics_informed_learning.svg" alt="Physics-informed recursive symbolic regression and tool-wear prediction results" width="100%">
 
 ### Integrated Process Design and Optimization
 
@@ -62,7 +60,6 @@ My current work extends this approach to food-waste conversion to volatile fatty
 **Related manuscript — under review**
 
 Han, S. and Ierapetritou, M. A surrogate-driven optimization framework for volatile fatty acid (VFA) production and recovery from food waste. *Bioresource Technology*.
-
 <img src="fig3_VFA.svg" alt="Joint design of food-waste fermentation and VFA recovery, with total annual cost of two-step vs. joint designs" width="90%">
 
 ### Energy Infrastructure Design and Planning
