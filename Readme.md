@@ -39,7 +39,7 @@ Initial applications will focus on **sustainable fuels, circular resource system
 
 Tool degradation accumulates over time, but sensor measurements do not directly reveal the underlying wear state. During my Ph.D., I developed a physics-informed recursive symbolic regression framework that combines prior state estimates with physical knowledge in explicit mathematical expressions. The framework predicts tool wear and remaining useful life across different machining conditions.
 
-**Representative publication**
+**Representative publication:**
 Han, S., Awasthi, U., and Bollas, G. M. (2025). [Physics-informed symbolic regression for tool wear and remaining useful life predictions in manufacturing](https://doi.org/10.1016/j.jmsy.2025.03.023). *Journal of Manufacturing Systems*, 80, 734–748.
 
 <img src="fig2_physics_informed_learning.svg" alt="Physics-informed recursive symbolic regression and tool-wear prediction results" width="100%">
@@ -51,7 +51,7 @@ Process performance depends on how technologies are selected and connected withi
 
 For industrial carbon utilization, I combined process simulation with superstructure optimization to compare pathways for converting coke oven gas into fuels and chemicals. The preferred hydrogen pathway depended on the objective. Direct separation minimized production cost and energy use, while maximizing hydrogen recovery required additional conversion and separation steps.
 
-**Representative publication**
+**Representative publication:**
 Han, S., Kim, S., Kim, Y. T., Kwak, G., and Kim, J. (2019). [Optimization-based assessment framework for carbon utilization strategies: Energy production from coke oven gas](https://doi.org/10.1016/j.enconman.2019.03.007). *Energy Conversion and Management*, 187, 1–14.
 
 <!-- Add the carbon utilization figure here. -->
@@ -59,7 +59,7 @@ Han, S., Kim, S., Kim, Y. T., Kwak, G., and Kim, J. (2019). [Optimization-based 
 
 My current work extends this approach to food-waste conversion to volatile fatty acids. I developed surrogate models for fermentation and recovery and embedded them in a joint optimization framework. Across the studied feedstock compositions, joint optimization reduced total annual cost by **22–45% relative to two-step optimization**, while maintaining or improving recovery yield.
 
-**Related manuscript — under review**
+**Related manuscript(under review):**
 Han, S. and Ierapetritou, M. A surrogate-driven optimization framework for volatile fatty acid (VFA) production and recovery from food waste. *Bioresource Technology*.
 
 <img src="fig3_VFA.svg" alt="Joint design of food-waste fermentation and VFA recovery, with total annual cost of two-step vs. joint designs" width="90%">
@@ -69,14 +69,14 @@ Han, S. and Ierapetritou, M. A surrogate-driven optimization framework for volat
 
 Energy infrastructure decisions link technology selection, facility location, capacity, transportation, and investment timing. I developed a multi-period optimization model for national renewable energy infrastructure planning, showing how resource geography and transportation costs shape deployment patterns across energy carriers.
 
-**Representative publication**
+**Representative publication:**
 Han, S. and Kim, J. (2019). [A multi-period MILP model for the investment and design planning of a national-level complex renewable energy supply system](https://doi.org/10.1016/j.renene.2019.04.017). *Renewable Energy*, 141, 736–750.
 
 <!-- Add the renewable energy infrastructure figure here. -->
 
 My current work extends this systems perspective to sustainable aviation fuel, connecting seasonal feedstock availability, existing facilities, storage, transportation, and airport demand to deployment decisions.
 
-**Related manuscript — under review**
+**Related manuscript(under review):**
 Han, S. and Ierapetritou, M. A national-scale optimization framework for sustainable aviation fuel deployment. *Computers & Chemical Engineering*.
 
 <img src="fig4_SAF.svg" alt="U.S. sustainable aviation fuel supply chain map and network expansion results" width="100%">
