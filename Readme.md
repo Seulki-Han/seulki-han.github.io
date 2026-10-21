@@ -94,7 +94,7 @@ Han, S. and Ierapetritou, M. A national-scale optimization framework for sustain
 
 4. **Han, S.**, Mannan, N., Stein, D. C., Pattipati, K. R., and Bollas, G. M. (2021). [Classification and regression models of audio and vibration signals for machine state monitoring in precision machining systems](https://doi.org/10.1016/j.jmsy.2021.08.004). *Journal of Manufacturing Systems*, 61, 45–53.
 
-5. You, C.<sup>†</sup>, **Han, S.<sup>†</sup>**, and Kim, J. (2021). [Integrative design of the optimal biorefinery and bioethanol supply chain under the water-energy-food-land (WEFL) nexus framework](https://doi.org/10.1016/j.energy.2021.120574). *Energy*, 228, 120574. (<sup>†</sup> Equal contribution)
+5. You, C.<sup>†</sup>, **Han, S.<sup>†</sup>**, and Kim, J. (2021). [Integrative design of the optimal biorefinery and bioethanol supply chain under the water-energy-food-land (WEFL) nexus framework](https://doi.org/10.1016/j.energy.2021.120574). *Energy*, 228, 120574. (<sup>†</sup>Equal contribution)
 
 6. **Han, S.** and Kim, J. (2019). [A multi-period MILP model for the investment and design planning of a national-level complex renewable energy supply system](https://doi.org/10.1016/j.renene.2019.04.017). *Renewable Energy*, 141, 736–750.
 
