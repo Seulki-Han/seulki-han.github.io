@@ -12,7 +12,7 @@ University of Delaware
 
 I develop models and optimization methods to connect technology performance with process design and infrastructure planning. My work combines physics-informed learning, process simulation, and mathematical optimization to understand how engineering choices depend on one another across scales and time.
 
-I am a postdoctoral researcher working with Professor Marianthi Ierapetritou at the University of Delaware. I received my Ph.D. in Chemical and Biomolecular Engineering from the University of Connecticut in 2025, advised by Professor George M. Bollas. I earned my M.S. and B.S. in Energy and Chemical Engineering from Incheon National University, where I worked with Professor Jiyong Kim.
+I am a postdoctoral researcher working with Professor Marianthi G. Ierapetritou at the University of Delaware. I received my Ph.D. in Chemical and Biomolecular Engineering from the University of Connecticut in 2025, advised by Professor George M. Bollas. I earned my M.S. and B.S. in Energy and Chemical Engineering from Incheon National University, where I worked with Professor Jiyong Kim.
 
 ## Research Vision
 
