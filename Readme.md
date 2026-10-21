@@ -4,7 +4,12 @@
 Department of Chemical & Biomolecular Engineering  
 University of Delaware
 
-[Email](mailto:seulkih@udel.edu) | [CV](CV_Seulki_Han.pdf) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=onHXfuEAAAAJ&view_op=list_works&sortby=pubdate) | [LinkedIn](https://www.linkedin.com/in/seulkihan)
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+  <a href="mailto:seulkih@udel.edu">Email</a>
+  <a href="CV_Seulki_Han.pdf">CV</a>
+  <a href="https://scholar.google.com/citations?hl=en&user=onHXfuEAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+  <a href="https://www.linkedin.com/in/seulkihan">LinkedIn</a>
+</div>
 
 ## Adaptive Learning and Optimization for Process and Infrastructure Decisions
 
