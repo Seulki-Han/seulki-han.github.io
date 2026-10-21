@@ -31,7 +31,7 @@ These questions form **a feedback loop**: experimental and operating information
 
 Initial applications will focus on **sustainable fuels, circular resource systems, and low-carbon infrastructure**.
 
-<!-- Add the research vision overview figure here. -->
+<img src="fig1_research_vision.svg" alt="Research vision: three connected questions on technology, process, and infrastructure decisions forming a feedback loop" width="80%">
 
 ## Selected Research
 
@@ -39,11 +39,11 @@ Initial applications will focus on **sustainable fuels, circular resource system
 
 Tool degradation accumulates over time, but sensor measurements do not directly reveal the underlying wear state. During my Ph.D., I developed a physics-informed recursive symbolic regression framework that combines prior state estimates with physical knowledge in explicit mathematical expressions. The framework predicts tool wear and remaining useful life across different machining conditions.
 
-<img src="Picture2.png" alt="Physics-informed recursive symbolic regression and tool-wear prediction results" width="90%">
-
 **Representative publication**
 
 Han, S., Awasthi, U., and Bollas, G. M. (2025). [Physics-informed symbolic regression for tool wear and remaining useful life predictions in manufacturing](https://doi.org/10.1016/j.jmsy.2025.03.023). *Journal of Manufacturing Systems*, 80, 734–748.
+
+<img src="fig2_physics_informed_learning.svg" alt="Physics-informed recursive symbolic regression and tool-wear prediction results" width="80%">
 
 ### Integrated Process Design and Optimization
 
@@ -63,7 +63,7 @@ My current work extends this approach to food-waste conversion to volatile fatty
 
 Han, S. and Ierapetritou, M. A surrogate-driven optimization framework for volatile fatty acid (VFA) production and recovery from food waste. *Bioresource Technology*.
 
-<!-- Add the VFA figure here. -->
+<img src="fig3_VFA.svg" alt="Joint design of food-waste fermentation and VFA recovery, with total annual cost of two-step vs. joint designs" width="80%">
 
 ### Energy Infrastructure Design and Planning
 
@@ -81,7 +81,7 @@ My current work extends this systems perspective to sustainable aviation fuel, c
 
 Han, S. and Ierapetritou, M. A national-scale optimization framework for sustainable aviation fuel deployment. *Computers & Chemical Engineering*.
 
-<!-- Add the SAF figure here. -->
+<img src="fig4_SAF.svg" alt="U.S. sustainable aviation fuel supply chain map and network expansion results" width="80%">
 
 ## Publications
 
