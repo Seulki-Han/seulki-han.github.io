@@ -79,14 +79,14 @@ My current work extends this approach to U.S. sustainable aviation fuel (SAF), i
 
 **Related Publications**
 
-- **Han, S.** and Ierapetritou, M. (2026). A national-scale optimization framework for sustainable aviation fuel deployment in the United States. *Computers & Chemical Engineering* (Accepted).
+- **Han, S.** and Ierapetritou, M. (2026). [A national-scale optimization framework for sustainable aviation fuel deployment in the United States](https://doi.org/10.1016/j.compchemeng.2026.109996). *Computers & Chemical Engineering* (Accepted).
 - **Han, S.** and Kim, J. (2019). [A multi-period MILP model for the investment and design planning of a national-level complex renewable energy supply system](https://doi.org/10.1016/j.renene.2019.04.017). *Renewable Energy*, 141, 736–750.
 
 ## Publications
 
 ### Journal Articles
 
-11. **Han, S.** and Ierapetritou, M. (2026). A national-scale optimization framework for sustainable aviation fuel deployment in the United States. *Computers & Chemical Engineering* (Accepted)
+11. **Han, S.** and Ierapetritou, M. (2026). [A national-scale optimization framework for sustainable aviation fuel deployment in the United States](https://doi.org/10.1016/j.compchemeng.2026.109996). *Computers & Chemical Engineering* (Accepted)
 
 10. Shapiro, A. J., O’Halloran, R. C., Tavares, D., Huynh, D., **Han, S.**, Shi, R., Gupta, Y., O’Dea, R., Haney, S., Otsuka, Y., Sadula, S., Vlachos, D. G., Ierapetritou, M., Levia, D. F., and Epps, T. H. (2026). [Forest residue harvest optimization: Spanning the bridge between plant biology and biorefinery performance](https://doi.org/10.1039/D6GC01047D). *Green Chemistry*, 28, 12662–12676.
 
