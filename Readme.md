@@ -86,25 +86,27 @@ My current work extends this approach to U.S. sustainable aviation fuel (SAF), i
 
 ### Journal Articles
 
-1. Shapiro, A. J., O’Halloran, R. C., Tavares, D., Huynh, D., **Han, S.**, Shi, R., Gupta, Y., O’Dea, R., Haney, S., Otsuka, Y., Sadula, S., Vlachos, D. G., Ierapetritou, M., Levia, D. F., and Epps, T. H. (2026). [Forest residue harvest optimization: Spanning the bridge between plant biology and biorefinery performance](https://doi.org/10.1039/D6GC01047D). *Green Chemistry*, 28, 12662–12676.
+11. **Han, S.** and Ierapetritou, M. (2026). A National-Scale Optimization Framework for Sustainable Aviation Fuel Deployment in the United States. *Computers & Chemical Engineering* (Accepted)
 
-2. **Han, S.**, Awasthi, U., and Bollas, G. M. (2025). [Physics-informed symbolic regression for tool wear and remaining useful life predictions in manufacturing](https://doi.org/10.1016/j.jmsy.2025.03.023). *Journal of Manufacturing Systems*, 80, 734–748.
+10. Shapiro, A. J., O’Halloran, R. C., Tavares, D., Huynh, D., **Han, S.**, Shi, R., Gupta, Y., O’Dea, R., Haney, S., Otsuka, Y., Sadula, S., Vlachos, D. G., Ierapetritou, M., Levia, D. F., and Epps, T. H. (2026). [Forest residue harvest optimization: Spanning the bridge between plant biology and biorefinery performance](https://doi.org/10.1039/D6GC01047D). *Green Chemistry*, 28, 12662–12676.
 
-3. **Han, S.**, Yang, Q., Pattipati, K. R., and Bollas, G. M. (2022). [Sensor selection and tool wear prediction with data-driven models for precision machining](https://doi.org/10.1002/amp2.10143). *Journal of Advanced Manufacturing and Processing*, 4(4).
+9. **Han, S.**, Awasthi, U., and Bollas, G. M. (2025). [Physics-informed symbolic regression for tool wear and remaining useful life predictions in manufacturing](https://doi.org/10.1016/j.jmsy.2025.03.023). *Journal of Manufacturing Systems*, 80, 734–748.
 
-4. **Han, S.**, Mannan, N., Stein, D. C., Pattipati, K. R., and Bollas, G. M. (2021). [Classification and regression models of audio and vibration signals for machine state monitoring in precision machining systems](https://doi.org/10.1016/j.jmsy.2021.08.004). *Journal of Manufacturing Systems*, 61, 45–53.
+8. **Han, S.**, Yang, Q., Pattipati, K. R., and Bollas, G. M. (2022). [Sensor selection and tool wear prediction with data-driven models for precision machining](https://doi.org/10.1002/amp2.10143). *Journal of Advanced Manufacturing and Processing*, 4(4).
 
-5. You, C.<sup>†</sup>, **Han, S.<sup>†</sup>**, and Kim, J. (2021). [Integrative design of the optimal biorefinery and bioethanol supply chain under the water-energy-food-land (WEFL) nexus framework](https://doi.org/10.1016/j.energy.2021.120574). *Energy*, 228, 120574. (<sup>†</sup>Equal contribution)
+7. **Han, S.**, Mannan, N., Stein, D. C., Pattipati, K. R., and Bollas, G. M. (2021). [Classification and regression models of audio and vibration signals for machine state monitoring in precision machining systems](https://doi.org/10.1016/j.jmsy.2021.08.004). *Journal of Manufacturing Systems*, 61, 45–53.
 
-6. **Han, S.** and Kim, J. (2019). [A multi-period MILP model for the investment and design planning of a national-level complex renewable energy supply system](https://doi.org/10.1016/j.renene.2019.04.017). *Renewable Energy*, 141, 736–750.
+6. You, C.<sup>†</sup>, **Han, S.<sup>†</sup>**, and Kim, J. (2021). [Integrative design of the optimal biorefinery and bioethanol supply chain under the water-energy-food-land (WEFL) nexus framework](https://doi.org/10.1016/j.energy.2021.120574). *Energy*, 228, 120574. (<sup>†</sup>Equal contribution)
 
-7. **Han, S.**, Kim, S., Kim, Y. T., Kwak, G., and Kim, J. (2019). [Optimization-based assessment framework for carbon utilization strategies: Energy production from coke oven gas](https://doi.org/10.1016/j.enconman.2019.03.007). *Energy Conversion and Management*, 187, 1–14.
+5. **Han, S.** and Kim, J. (2019). [A multi-period MILP model for the investment and design planning of a national-level complex renewable energy supply system](https://doi.org/10.1016/j.renene.2019.04.017). *Renewable Energy*, 141, 736–750.
 
-8. **Han, S.** and Kim, J. (2017). [Optimization-based integration and analysis of a complex renewable energy system for the transportation sector](https://doi.org/10.1016/j.cherd.2017.09.029). *Chemical Engineering Research and Design*, 128, 1–14.
+4. **Han, S.**, Kim, S., Kim, Y. T., Kwak, G., and Kim, J. (2019). [Optimization-based assessment framework for carbon utilization strategies: Energy production from coke oven gas](https://doi.org/10.1016/j.enconman.2019.03.007). *Energy Conversion and Management*, 187, 1–14.
 
-9. **Han, S.** and Kim, J. (2017). [An optimization model to design and analysis of renewable energy supply strategies for residential sector](https://doi.org/10.1016/j.renene.2017.05.030). *Renewable Energy*, 112, 222–234.
+3. **Han, S.** and Kim, J. (2017). [Optimization-based integration and analysis of a complex renewable energy system for the transportation sector](https://doi.org/10.1016/j.cherd.2017.09.029). *Chemical Engineering Research and Design*, 128, 1–14.
 
-10. **Han, S.**, Won, W., and Kim, J. (2017). [Scenario-based approach for design and comparative analysis of conventional and renewable energy systems](https://doi.org/10.1016/j.energy.2017.04.063). *Energy*, 129, 86–100.
+2. **Han, S.** and Kim, J. (2017). [An optimization model to design and analysis of renewable energy supply strategies for residential sector](https://doi.org/10.1016/j.renene.2017.05.030). *Renewable Energy*, 112, 222–234.
+
+1. **Han, S.**, Won, W., and Kim, J. (2017). [Scenario-based approach for design and comparative analysis of conventional and renewable energy systems](https://doi.org/10.1016/j.energy.2017.04.063). *Energy*, 129, 86–100.
 
 ## Contact
 
